@@ -8,7 +8,7 @@ Olá, você caiu numa **zona de teste de erros**, mas não se preocupe, tudo aqu
 - Usuário: Eduardo Pontes  
 - Curso: Ciência da Computação  
 - Área de interesse: Cybersecurity (Blue Team)  
-- Bugs conhecidos: procrastinação, café excessivo ☕  
+- Bugs conhecidos: café excessivo ☕  
 
 ---
 
@@ -22,8 +22,7 @@ Olá, você caiu numa **zona de teste de erros**, mas não se preocupe, tudo aqu
 ## 📫 Contato (antes que dê outro ERROR)
 - LinkedIn: [Seu LinkedIn](#)  
 - Email: [eduadorpontesfontes3@gmail.com](mailto:seuemail@example.com)
-- 
-<a href="[https://www.instagram.com/edusafirad1]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- <a href="[https://www.instagram.com/edusafirad1]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ---
 
 > ⚡ Nota: Este perfil pode conter **risadas inesperadas, aprendizado contínuo e curiosidade infinita**.
