@@ -22,6 +22,7 @@ Olá, você caiu numa **zona de teste de erros**, mas não se preocupe, tudo aqu
 ## 📫 Contato (antes que dê outro ERROR)
 - LinkedIn: [Seu LinkedIn](#)  
 - Email: [eduadorpontesfontes3@gmail.com](mailto:seuemail@example.com)
+- 
 <a href="[https://www.instagram.com/edusafirad1]" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 ---
 
