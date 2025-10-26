@@ -1,4 +1,4 @@
-# ⚠️ ERROR 404: Perfil não encontrado... só que encontrado! ⚠️
+# ⚠️ ERROR 404: Perfil não encontrado... só que encontrado! ⚠️!
 
 Olá, você caiu numa **zona de teste de erros**, mas não se preocupe, tudo aqui é intencional 😎  
 
